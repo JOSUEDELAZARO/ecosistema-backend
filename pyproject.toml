@@ -1,4 +1,0 @@
-[project]
-name = "ecosistema-multi-ia"
-version = "1.0.0"
-dependencies = ["flask", "gunicorn"]
